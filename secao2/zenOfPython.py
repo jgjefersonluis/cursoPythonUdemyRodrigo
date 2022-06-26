@@ -1,5 +1,8 @@
-print("O Zen do Python é uma coleção de 19 princípios orientadores.")
-print("Princípios")
+a = '''Princípios'''
+b = '''O Zen do Python é uma coleção de 19 princípios orientadores.'''
+
+print(a)
+print(b)
 print("Os princípios que constam no Zen of Python são (originalmente em Inglês):")
 
 print("Beautiful is better than ugly.")
